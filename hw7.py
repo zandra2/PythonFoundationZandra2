@@ -1,3 +1,33 @@
+''' Assignment
+
+This assignment will include the following:
+
+    Finish walking through this lecture to copy/paste the beginning of the script you will need for your homework.
+        (Links to an external site.)Links to an external site.
+    Finish the user option to delete an entry from the dictionary by removing the "pass" statements and adding
+        code to delete a user by name (extra challenge: can you figure out how to delete a user by name OR username?)
+    Finish the user option to lookup a username by name by removing the "pass" statement and adding code to find
+        a user by name
+    Run the script and make sure each option works
+    Add exception handling to each user input option.
+    Add doc strings to the script and comment the code.
+    Push your finished script to your personal, publicly accessible Github repo.
+    Submit a link to the Github repo containing your script on canvas.
+
+
+Criteria
+This criterion is linked to a Learning Outcome User can delete an entry from the dictionary. 25pts
+
+This criterion is linked to a Learning Outcome User can lookup a username by name. 25pts
+
+This criterion is linked to a Learning Outcome Each user option has exception handling. 25pts
+
+This criterion is linked to a Learning Outcome Script contains helpful doc strings and comments 10pts
+
+This criterion is linked to a Learning Outcome Finished script successfully uploaded to Github 25pts
+
+'''
+
 from sortedcontainers import SortedDict
 
 
